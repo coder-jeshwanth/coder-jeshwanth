@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **coder-jeshwanth/coder-jeshwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Jeshy 👋
+
+## 🚀 About Me
+I'm a Java Full Stack Developer passionate about building web applications and solving real-world problems.
+
+## 🛠 Technologies & Tools
+- **Backend:** Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT 
+- **Frontend:** HTML5 | CSS3 | JavaScript | ReactJS
+- **Database:** MySQL 
+- **Tools:**  Git & GitHub  |  Postman  |  Eclipse IDE  |  VS Code 
+
+## 📊 GitHub Stats
+<a href="https://github.com/coder-jeshwanth"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true"></a> 
+<br />
+<br />
+<a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
