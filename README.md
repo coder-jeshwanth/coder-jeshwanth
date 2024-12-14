@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi there, I'm Jeshy 👋
+# Hi there, I'm Jeshwanth 👋
 
 ## 🚀 About Me
 I'm a Java Full Stack Developer passionate about building web applications and solving real-world problems.
