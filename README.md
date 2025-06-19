@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Jeshwanth 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=false&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
 
 
 ## 🚀 About Me
