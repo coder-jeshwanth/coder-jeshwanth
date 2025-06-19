@@ -32,4 +32,6 @@ I'm a Java Full Stack Developer passionate about building web applications and s
 <br />
 <a href="https://github.com/coder-jeshwanth"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
 <br>
+<br>
+<br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=coder-jeshwanth&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
