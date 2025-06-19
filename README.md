@@ -39,12 +39,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="right">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true" />
 </p>
 
