@@ -4,6 +4,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
 
 
+
 ---
 
 ## 🚀 About Me
@@ -39,17 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="right">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coder-jeshwanth&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-jeshwanth&theme=tokyonight&hide_border=true" />
+  
+  <br /><br />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme
