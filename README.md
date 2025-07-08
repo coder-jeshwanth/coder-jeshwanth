@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>MySQL</td>
+    <td>MySQL, MongoDB</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
